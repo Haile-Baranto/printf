@@ -4,7 +4,7 @@ void write_buffer(char *buffer, int *nbytes);
 
 /**
  * _printf -  variadic function that prints formated string to
- * standard output
+ * stdio
  * @format: pointer to constat char which is format specifier
  * Return: total length of charachters printed out
  */
